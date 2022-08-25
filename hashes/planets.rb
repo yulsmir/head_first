@@ -13,8 +13,8 @@ bodies = Hash.new do |hash, key|
 end
 
 bodies['Mars'].name = 'Mars'
-# bodies['Europa'].name = 'Europa'
-# bodies['Europa'].type = 'moon'
-# bodies['Venus'].name = 'Venus'
+bodies['Europa'].name = 'Europa'
+bodies['Europa'].type = 'moon'
+bodies['Venus'].name = 'Venus'
 
 puts bodies
