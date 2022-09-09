@@ -1,9 +1,21 @@
 ---
-Spirited Away: !ruby/object:Movie
-  title: Spirited Away
-  director: Hayao Mizazaki
-  year: 2001
-Inception: !ruby/object:Movie
-  title: Inception
-  director: Christopher Nolan
-  year: 2010
+1: !ruby/object:Movie
+  title: Title
+  director: Di
+  year: Year
+  id: 1
+2: !ruby/object:Movie
+  title: Some title
+  director: Some director
+  year: some year
+  id: 2
+3: !ruby/object:Movie
+  title: Jojo
+  director: djfskdjfhs
+  year: '4567'
+  id: 3
+4: !ruby/object:Movie
+  title: Tototo
+  director: Dododo
+  year: '9876'
+  id: 4
