@@ -1,21 +1,26 @@
 ---
 1: !ruby/object:Movie
-  title: Title
+  title: Jaws
   director: Di
   year: Year
   id: 1
 2: !ruby/object:Movie
-  title: Some title
+  title: Shrek
   director: Some director
   year: some year
   id: 2
 3: !ruby/object:Movie
-  title: Jojo
+  title: It
   director: djfskdjfhs
   year: '4567'
   id: 3
 4: !ruby/object:Movie
-  title: Tototo
+  title: World of J
   director: Dododo
   year: '9876'
   id: 4
+5: !ruby/object:Movie
+  title: Title 1
+  director: Director 1
+  year: Year 1
+  id: 5
