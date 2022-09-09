@@ -1,5 +1,4 @@
 require 'sinatra'
-require 'movie'
 
 get('/movies') do
   @movies = []
